@@ -1,0 +1,7 @@
+PySide6>=6.5.0
+pynput>=1.7.6
+pycaw>=20240210
+comtypes>=1.2.0
+pywin32>=306
+winsdk>=5.0.0; sys_platform == 'win32'
+pyinstaller>=6.0.0

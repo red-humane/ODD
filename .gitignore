@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+dist_rebuild/
+*.manifest
+*.spec.bak
+
+# Large Executable binaries & payloads (Exceeds GitHub 100MB limit, distributed via Releases)
+*.exe
+*.bin
+ODD.exe
+ODD_Setup.exe
+Uninstall ODD.exe
+odd_payload.bin
+
+# Caches & Local runtime data
+*.cache
+*.log
+err.txt
+out.txt
+test_err.txt
+activity_history.json
+apps_cache.json
+files_cache.json
+folders_cache.json
+clipboard_history.json
+notes.json
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
